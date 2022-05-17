@@ -20,9 +20,3 @@ in2.png, out2.png:
 
 
 ![in](./examples/in2.png)![out](./examples/out2.png)
-
-## build from source code:
-```
-./gradlew build
-```
-jar file will be generated under the ```build/libs```
